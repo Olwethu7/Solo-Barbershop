@@ -1,1 +1,12 @@
+<!-- Hero section -->
+<img src="images/hero.jpg" alt="Solo Barbershop Hero">
 
+<!-- Services -->
+<img src="images/haircut1.jpg" alt="Classic Haircut">
+<img src="images/haircut2.jpg" alt="Fade Haircut">
+<img src="images/haircut3.jpg" alt="Line-Up">
+
+<!-- Gallery -->
+<img src="images/haircut1.jpg" alt="Gallery 1">
+<img src="images/haircut2.jpg" alt="Gallery 2">
+<img src="images/haircut3.jpg" alt="Gallery 3">
